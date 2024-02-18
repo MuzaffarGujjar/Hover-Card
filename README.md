@@ -1,3 +1,3 @@
-A project of HTML and CSS
-In this project we learn HTML and CSS basics to next level by creating a nature card
+# Hover Card Design 
+A hover card design in HTML and CSS
 Must Try
